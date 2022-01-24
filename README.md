@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karanchandru
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Angular, Data Structer
-- 💞️ I’m looking to collaborate on Angular Project
+- 🌱 I’m currently learning React, Data Structer
+- 💞️ I’m looking to collaborate on React Project
 - 📫 How to reach me 
 
 <!---
